@@ -3,6 +3,7 @@ rencana konten wpu
 -javascript
 *es6
 *framework javascreap
+-struktur data dasar
 -php frameworks
 -interview
 -vlogs
